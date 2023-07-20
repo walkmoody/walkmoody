@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![Walkers's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkmoody&show_icons=true&github)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkmoody&exclude_repo=FlappyBirdClone&FlappyClone&layout=donut)](https://github.com/walkmoody/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkmoody&exclude_repo=FlappyBirdClone&FlappyClone&layout=donut&count_weight=1&size_weight=0&bg_color=00000000)](https://github.com/walkmoody/github-readme-stats)
 
 <!---
 Checks for light / dark mode and displays that
