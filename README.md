@@ -1,6 +1,6 @@
-# Hi, I'm Walker Moody 👋
+# Hi, I'm Walker Moody
 
-Computer Science student at Texas Tech University focused on AI systems, full-stack development, and building products that blend research with real-world impact.
+Grad Student at Texas Tech University studying Security and Software Engineering; focused on AI systems, full-stack development, and building products that blend research with real-world impact.
 
 Currently working on:
 - AI-powered education tools at Floriq
