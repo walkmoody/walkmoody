@@ -1,8 +1,24 @@
-### My name is Walker Moody 
-I am a computer Science student at Texas Tech University!
-<!---
-walkmoody/walkmoody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-![Walkers's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkmoody&show_icons=true&github)
---->
-[![wamoody.com]](https://wamoody.com)
+# Hi, I'm Walker Moody 👋
+
+Computer Science student at Texas Tech University focused on AI systems, full-stack development, and building products that blend research with real-world impact.
+
+Currently working on:
+- AI-powered education tools at Floriq
+- Full-stack applications with React, Node.js, and modern cloud tooling
+- Applied machine learning, RAG systems, and intelligent assistants
+
+## Tech Stack
+- Languages: Python, JavaScript, TypeScript, Java, C++
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- AI/ML: OpenAI APIs, Groq, RAG pipelines, LLM applications
+- Tools: Git, Docker, Firebase, Stripe
+
+## Connect With Me
+- Portfolio: [wamoody.com](https://wamoody.com)
+- LinkedIn: Add your LinkedIn here
+- Email: Add your email here
+
+---
+
+> Building software that feels intelligent, useful, and human.
