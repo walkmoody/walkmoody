@@ -16,9 +16,4 @@ Currently working on:
 
 ## Connect With Me
 - Portfolio: [wamoody.com](https://wamoody.com)
-- LinkedIn: Add your LinkedIn here
-- Email: Add your email here
 
----
-
-> Building software that feels intelligent, useful, and human.
