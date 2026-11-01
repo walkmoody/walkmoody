@@ -23,3 +23,17 @@ Currently working on:
 
 - Portfolio: [wamoody.com](https://wamoody.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/stats-dark.svg">
+  <img alt="Walker's GitHub activity" src="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/stats-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/streak-dark.svg">
+  <img alt="Walker's contribution streaks" src="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/streak-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/languages-dark.svg">
+  <img alt="Walker's most used languages" src="https://raw.githubusercontent.com/walkmoody/GithubStats/main/output/languages-light.svg">
+</picture>
