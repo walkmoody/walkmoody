@@ -1,11 +1,16 @@
 # Hi, I'm Walker Moody
 
-Grad Student at Texas Tech University studying Security and Software Engineering; focused on AI systems, full-stack development, and building products that blend research with real-world impact.
+AI systems engineer and grad student at **Texas Tech** (M.S. Software & Security Engineering, 2027). I build RAG systems, full-stack products, and research tools, and I like shipping things people actually use.
+
 
 Currently working on:
 - AI-powered education tools at Floriq
 - Full-stack applications with React, Node.js, and modern cloud tooling
 - Applied machine learning, RAG systems, and intelligent assistants
+
+- 2nd place, Winter Classic Invitational (HPC / quantum computing)
+- Backend and UI Engineering intern at **SailPoint Technologies**
+- Cybersecurity intern at **Solis Cybersecurity**
 
 ## Tech Stack
 - Languages: Python, JavaScript, TypeScript, Java, C++
@@ -15,5 +20,6 @@ Currently working on:
 - Tools: Git, Docker, Firebase, Stripe
 
 ## Connect With Me
+
 - Portfolio: [wamoody.com](https://wamoody.com)
 
