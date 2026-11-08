@@ -1,4 +1,8 @@
-# Hi, I'm Walker Moody
+# Walker Moody
+
+Software engineer and founding engineer at Careless Sports.
+
+[Personal site](https://wamoody.com) · [Careless Sports bio](https://www.carelesssports.com/authors/walker-moody) · [LinkedIn](https://www.linkedin.com/in/walkermoody/)
 
 AI systems engineer and grad student at **Texas Tech** (M.S. Software & Security Engineering, 2027). I build RAG systems, full-stack products, and research tools, and I like shipping things people actually use.
 
